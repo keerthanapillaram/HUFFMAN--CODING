@@ -2,7 +2,7 @@
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
-## Developed By: p Keerthana
+## Developed By: Keerthana P
 ## Reg.No: 212223240069
 
 ## Software Required
