@@ -2,8 +2,8 @@
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
-## Developed By: Jeshwanth Kumar
-## Reg.No: 212223240114
+## Developed By: p Keerthana
+## Reg.No: 212223240069
 
 ## Software Required
 1. Anaconda - Python 3.7
