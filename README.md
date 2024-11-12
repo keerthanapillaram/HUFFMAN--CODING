@@ -2,6 +2,9 @@
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
+## Developed By: Jeshwanth Kumar
+## Reg.No: 212223240114
+
 ## Software Required
 1. Anaconda - Python 3.7
 
@@ -25,7 +28,7 @@ print the characters and its huffmancode
 
 ### Get the input String
 ```
-string = 'Thiyagarajan'
+string = 'Jeshwanth Kumar'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -93,7 +96,7 @@ for (char, frequency) in freq:
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/4acc3ae5-112d-4221-97e4-67f010c8b1c1)
+![image](https://github.com/user-attachments/assets/1b7a2454-6d92-4257-8124-0cd3f72946f6)
 
 
 
