@@ -96,7 +96,7 @@ for (char, frequency) in freq:
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/1b7a2454-6d92-4257-8124-0cd3f72946f6)
+![WhatsApp Image 2024-11-12 at 22 42 03_74e0e05e](https://github.com/user-attachments/assets/e487878d-e15f-41c7-85f0-15031e8a6855)
 
 
 
